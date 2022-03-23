@@ -1,0 +1,15 @@
+/Users/ecekokyar/Desktop/Pratikler/arraylist/bin/Debug/net5.0/arraylist.deps.json
+/Users/ecekokyar/Desktop/Pratikler/arraylist/bin/Debug/net5.0/arraylist.runtimeconfig.json
+/Users/ecekokyar/Desktop/Pratikler/arraylist/bin/Debug/net5.0/arraylist.runtimeconfig.dev.json
+/Users/ecekokyar/Desktop/Pratikler/arraylist/bin/Debug/net5.0/arraylist.dll
+/Users/ecekokyar/Desktop/Pratikler/arraylist/bin/Debug/net5.0/ref/arraylist.dll
+/Users/ecekokyar/Desktop/Pratikler/arraylist/bin/Debug/net5.0/arraylist.pdb
+/Users/ecekokyar/Desktop/Pratikler/arraylist/obj/Debug/net5.0/arraylist.csproj.AssemblyReference.cache
+/Users/ecekokyar/Desktop/Pratikler/arraylist/obj/Debug/net5.0/arraylist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecekokyar/Desktop/Pratikler/arraylist/obj/Debug/net5.0/arraylist.AssemblyInfoInputs.cache
+/Users/ecekokyar/Desktop/Pratikler/arraylist/obj/Debug/net5.0/arraylist.AssemblyInfo.cs
+/Users/ecekokyar/Desktop/Pratikler/arraylist/obj/Debug/net5.0/arraylist.csproj.CoreCompileInputs.cache
+/Users/ecekokyar/Desktop/Pratikler/arraylist/obj/Debug/net5.0/arraylist.dll
+/Users/ecekokyar/Desktop/Pratikler/arraylist/obj/Debug/net5.0/ref/arraylist.dll
+/Users/ecekokyar/Desktop/Pratikler/arraylist/obj/Debug/net5.0/arraylist.pdb
+/Users/ecekokyar/Desktop/Pratikler/arraylist/obj/Debug/net5.0/arraylist.genruntimeconfig.cache
